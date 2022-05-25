@@ -14,7 +14,7 @@
     .row.mt-4(data-aos="fade-up")
       .col-md-6
         img(src="@/assets/curso/tema1/2.png", alt="Texto que describa la imagen")
-      .col-md-6
+      .col-md-6.mt-2
         p Según Oviedo (2001), “no se puede descartar que existieran algunos sistemas de señas en el territorio colombiano antes del arribo de los españoles; ni que algunas personas sordas usuarias de una lengua de señas hubieran llegado entre quienes venían a habitar las colonias”. Fue solo hasta 1924 cuando algunas comunidades católicas que llegaron de otros lugares iniciaron procesos educativos en Medellín – Colombia con la I.E. Francisco Luis Hernández Betancur (1943) y en Bogotá con el I. E. de Nuestra Señora de la Sabiduría (1924) con métodos oralistas traídos del congreso de Milán.
         p.mb-0 No fue sino hasta la Ley 324 de 1996, por el cual se crean algunas normas a favor de la población sorda, donde se abrieron múltiples posibilidades, entre ellas el acceso de esta población a la educación, el cual no solo ha permitido su formación, autonomía y progreso como comunidad, sino también ha generado nuevas necesidades en torno a las herramientas y al capital humano que le acompaña en su desarrollo integral en los diferentes entornos de vida. De acuerdo con el Decreto 2369 de 1997 la función principal del intérprete oficial es traducir al idioma castellano o de éste a la lengua de señas colombiana, las
         p comunicaciones que deben efectuar las personas sordas con personas oyentes o la traducción a los sistemas especiales de comunicación utilizados por las personas sordociegas.
@@ -66,7 +66,7 @@
     separador
     .row
       .col-lg-2.backtitulo
-        h4.mt-2 Discapacidad
+        h4.mt-2.text-center Discapacidad
     p.mt-4 El Art. 1 de la Convención Internacional sobre los Derechos de las Personas con Discapacidad , el cual fue aprobado en 2006 por la Asamblea General de las Naciones Unidas y en Argentina en 2008 a través de la Ley 26.378, aclara que "la discapacidad es un concepto que evoluciona y que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás". 
     p Según la guía de atención a las personas con discapacidad del Ministerio de Salud y Protección Social existen en Colombia 9 categorías o ámbitos en los que se puede presentar una discapacidad:
     .row.mt-5(data-aos="fade-up")
@@ -256,7 +256,7 @@
             p Considera que es posible establecer un lazo entre los distintos niveles en la vida de un individuo (biológico, personal y social) que sustentan la discapacidad. Clasifica y mide la discapacidad sin estigmatizar.
     .row
       .col-lg-4.backtitulo
-        h4.mt-2 Enfoques en la discapacidad
+        h4.mt-2.text-center Enfoques en la discapacidad
     p.mt-4 El enfoque, orientación o punto de vista que analiza la discapacidad e inclusión social en Colombia ha superado el enfoque de las políticas de asistencia o protección, y ha trascendido hacia una visión de desarrollo humano con un enfoque diferencial y de derechos; dimensionando todos los aspectos de la vida de una persona, incluyendo la relación con su familia, el contexto político, cultural, social y económico, bajo los siguientes enfoques:
     TabsC.color-primario(data-aos="fade-up")
       .py-3.py-md-4(titulo="Enfoque de derechos")
@@ -310,7 +310,7 @@
         p La información secundaria son los datos recogidos y ya elaborados que existen previamente (información primaria) y son del interés del investigador por lo que han sido producidos con diversos propósitos. Se utilizan 2 técnicas para su recolección: cuantitativas (estadísticas, censos, cálculos matemáticos) y cualitativas (actas, registros, informes, documentos, entre otros).
     .row
       .col-lg-4.backtitulo
-        h4.mt-2 Tipos de búsqueda de información
+        h4.mt-2.text-center Tipos de búsqueda de información
     .row.justify-content-center.mt-5
       .col-lg-12
         .row.p-4.coss
@@ -331,12 +331,12 @@
                 | <strong>Búsqueda retrospectiva:</strong> parte de la necesidad de solucionar un problema en particular y cuya consulta puede ser simple o exhaustiva.
     .row.mt-5
       .col-lg-4.backtitulo
-        h4.mt-2 Técnicas de recolección de información
+        h4.mt-2.text-center Técnicas de recolección de información
     p.mt-4 Para realizar la búsqueda, independientemente de las estrategias que se utilicen se sugieren los siguientes pasos: 
     .row(data-aos="fade-up")
       .col-md-5
         img(src='@/assets/curso/tema1/11.png', alt='Texto que describa la imagen')
-      .col-md-7
+      .col-md-7.mt-2
         .row
           .col-sm.mb-12.mb-sm-0
             ul.lista-ul--color
@@ -361,7 +361,7 @@
     
     .row.mt-5
       .col-lg-4.backtitulo
-        h4.mt-2 Búsqueda de información en Internet
+        h4.mt-2.text-center Búsqueda de información en Internet
     .row.mb-5.mt-5(data-aos="fade-up")
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -391,7 +391,7 @@
               p.text-center www.google.com, www.yahoo.es, www.alltheweb.com, www.terra.es, www.msn.es, www.altavista.com, www.lycos.es, www.hispanista.com, entre otros.
     .row  
       .col-lg-4.backtitulo
-        h4.mt-2 Herramientas virtuales
+        h4.mt-2.text-center Herramientas virtuales
     p.mt-4 Las herramientas virtuales como las plataformas de e-learning, campus virtual, Learning Management System (LMS), aplicaciones, entre otros, son espacios virtuales de aprendizaje orientados a facilitar la experiencia de capacitación a distancia.
     .row.justify-content-center(data-aos="fade-up")
       .col-md-4.mt-4
@@ -457,122 +457,126 @@
     .row
       .col-md-6.backq.p-2.ma
         h5.maaa Videos Accesibles:
+        .row
+          .col-md-6.backq2.ma
+            .row.justify-content-center.mt-4.marginbot
+              .col-md-3.mb-5
+                img(src='@/assets/curso/tema1/ico21.svg', alt='Texto que describa la imagen')
+              .col-md-1
+              .col-md-6.mb-4
+                .row
+                  .col-sm.mb-12.mb-sm-0
+                    ul.lista-ul--color
+                      li 
+                        i.fas.fa-check
+                        |  Transcripción en formato de texto.
+                      li 
+                        i.fas.fa-check
+                        |  Subtitulado
+
+                      li 
+                        i.fas.fa-check
+                        |  Audio descripción.
+
+                      li 
+                        i.fas.fa-check
+                        | Interpretación por lenguaje de señas.
       .col-md-6.backq.p-2
         h5.maaa Contenido sonoro:
-    .row(data-aos="fade-up")
-      .col-md-6.backq2.ma
-        .row.justify-content-center.mt-4.marginbot
-          .col-md-3.mb-5
-            img(src='@/assets/curso/tema1/ico21.svg', alt='Texto que describa la imagen')
-          .col-md-1
-          .col-md-6
-            .row
-              .col-sm.mb-12.mb-sm-0
-                ul.lista-ul--color
-                  li 
-                    i.fas.fa-check
-                    |  Transcripción en formato de texto.
-                  li 
-                    i.fas.fa-check
-                    |  Subtitulado
+        .row
+          .col-md-6.backq2
+            .row.justify-content-center.mt-4.marginbot
+              .col-md-2.mb-5
+                img(src='@/assets/curso/tema1/ico22.svg', alt='Texto que describa la imagen')
+              .col-md-1
+              .col-md-8
+                .row
+                  .col-sm.mb-12.mb-sm-0
+                    ul.lista-ul--color
+                      li 
+                        i.fas.fa-check
+                        |  Identificación de los hablantes.
+                      li 
+                        i.fas.fa-check
+                        |  Contenido de los diálogos.
 
-                  li 
-                    i.fas.fa-check
-                    |  Audio descripción.
-
-                  li 
-                    i.fas.fa-check
-                    | Interpretación por lenguaje de señas.
-      .col-md-6.backq2
-        .row.justify-content-center.mt-4.marginbot
-          .col-md-2.mb-5
-            img(src='@/assets/curso/tema1/ico22.svg', alt='Texto que describa la imagen')
-          .col-md-1
-          .col-md-8
-            .row
-              .col-sm.mb-12.mb-sm-0
-                ul.lista-ul--color
-                  li 
-                    i.fas.fa-check
-                    |  Identificación de los hablantes.
-                  li 
-                    i.fas.fa-check
-                    |  Contenido de los diálogos.
-
-                  li 
-                    i.fas.fa-check
-                    |  Reconocimiento de eventos sonoros (Música, aplausos, efectos especiales, etc).
+                      li 
+                        i.fas.fa-check
+                        |  Reconocimiento de eventos sonoros (Música, aplausos, efectos especiales, etc).
 
 
-                  li 
-                    i.fas.fa-check
-                    | Todos los eventos sonoros que sean relevantes para la comprensión de los documentos.
+                      li 
+                        i.fas.fa-check
+                        | Todos los eventos sonoros que sean relevantes para la comprensión de los documentos.
+
+
     .row.mt-4
       .col-md-6.backq.p-2.ma
         h5.maaa Contenido visual:
+        .row(data-aos="fade-up")
+          .col-md-6.backq2.ma
+            .row.justify-content-center.mt-4.marginbot
+              .col-md-3.mb-5
+                img(src='@/assets/curso/tema1/ico23.svg', alt='Texto que describa la imagen')
+
+              .col-md-8
+                .row
+                  .col-sm.mb-12.mb-sm-0
+                    ul.lista-ul--color
+                      li 
+                        i.fas.fa-check
+                        |  Descripción de las acciones.
+                      li 
+                        i.fas.fa-check
+                        |  Capturas de pantallas, imágenes, diagramas, etc.
+
+                      li 
+                        i.fas.fa-check
+                        |  Descripción de expresiones corporales.
+
+                      li 
+                        i.fas.fa-check
+                        | Descripción de escenarios y localizaciones.
+                      li 
+                        i.fas.fa-check
+                        | Transcripción de los textos que se muestran en pantalla.
+                      li 
+                        i.fas.fa-check
+                        | Todos los eventos visuales que sean relevantes para la comprensión de los documentos.
+
       .col-md-6.backq.p-2
         h5.maaa Subtitulado:
-    .row(data-aos="fade-up")
-      .col-md-6.backq2.ma
-        .row.justify-content-center.mt-4.marginbot
-          .col-md-3.mb-5
-            img(src='@/assets/curso/tema1/ico23.svg', alt='Texto que describa la imagen')
+        .row
 
-          .col-md-8
-            .row
-              .col-sm.mb-12.mb-sm-0
-                ul.lista-ul--color
-                  li 
-                    i.fas.fa-check
-                    |  Descripción de las acciones.
-                  li 
-                    i.fas.fa-check
-                    |  Capturas de pantallas, imágenes, diagramas, etc.
-
-                  li 
-                    i.fas.fa-check
-                    |  Descripción de expresiones corporales.
-
-                  li 
-                    i.fas.fa-check
-                    | Descripción de escenarios y localizaciones.
-                  li 
-                    i.fas.fa-check
-                    | Transcripción de los textos que se muestran en pantalla.
-                  li 
-                    i.fas.fa-check
-                    | Todos los eventos visuales que sean relevantes para la comprensión de los documentos.
+          .col-md-6.backq2
+            .row.justify-content-center.mt-4.marginbot
+              .col-md-2.mb-5
+                img(src='@/assets/curso/tema1/ico24.svg', alt='Texto que describa la imagen')
+              .col-md-1
+              .col-md-8.mb-5
+                .row
+                  .col-sm.mb-12.mb-sm-0
+                    ul.lista-ul--color
+                      li 
+                        i.fas.fa-check
+                        |  Velocidad de 12 caracteres por segundo.
+                      li 
+                        i.fas.fa-check
+                        |  No separar palabras.
 
 
-      .col-md-6.backq2
-        .row.justify-content-center.mt-4.marginbot
-          .col-md-2.mb-5
-            img(src='@/assets/curso/tema1/ico24.svg', alt='Texto que describa la imagen')
-          .col-md-1
-          .col-md-8
-            .row
-              .col-sm.mb-12.mb-sm-0
-                ul.lista-ul--color
-                  li 
-                    i.fas.fa-check
-                    |  Velocidad de 12 caracteres por segundo.
-                  li 
-                    i.fas.fa-check
-                    |  No separar palabras.
-
-
-                  li 
-                    i.fas.fa-check
-                    |  Separar frases largas según las conjunciones. Sincronización con el locutor en OFF.
+                      li 
+                        i.fas.fa-check
+                        |  Separar frases largas según las conjunciones. Sincronización con el locutor en OFF.
 
 
 
-                  li 
-                    i.fas.fa-check
-                    | Utilizar paréntesis en vez de corchetes.
+                      li.mb-5
+                        i.fas.fa-check.mb-3
+                        | Utilizar paréntesis en vez de corchetes.
     .row.mt-5
       .col-lg-5.backtitulo
-        h4.mt-2 Herramientas con interpretación en lenguaje de señas:
+        h4.mt-2.text-center Herramientas con interpretación en lenguaje de señas:
     .row.justify-content-center(data-aos="fade-up")
 
       .col-md-6.mt-4
@@ -603,7 +607,7 @@
         img(src='@/assets/curso/tema1/13.png' alt='AvatarTop')
     .row.mt-5
       .col-lg-5.backtitulo
-        h4.mt-2 Herramientas para la accesibilidad:
+        h4.mt-2.text-center Herramientas para la accesibilidad:
     .row.mt-5.justify-content-center
       .col-md-10
         .row.mt-2.bg1(data-aos="fade-up")

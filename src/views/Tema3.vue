@@ -32,7 +32,10 @@
       .col-lg-7   
         p Todo evento en el que se solicite interpretación de lengua de señas y que dure más de una hora, requiere como mínimo un intérprete de relevo para hacer los respectivos cambios cada veinte minutos. Los intérpretes establecerán previamente aspectos organizacionales como la metodología que se utilizará en la interpretación, el uso de medios visuales y una ubicación estratégica del intérprete pasivo que permita la visualización eficaz de este para proporcionar al intérprete activo los datos que se puedan pasar por alto. 
         p Pasados veinte minutos, el intérprete de relevo se colocará detrás del intérprete activo evitando ser un distractor y hará un corto y sutil toque en el hombro, para que este finalice la idea que está transmitiendo y así cambiar el rol, o podrían aprovechar el cambio si el expositor hace una pausa.
-    .row.mt-5(data-aos="fade-up")
+    #t_3_4.titulo-segundo.color-acento-contenido.mt-5(data-aos="zoom-in-right")
+      h2 3.4 Etiqueta y protocolo en el servicio de interpretación
+    
+    //.row.mt-5(data-aos="fade-up")
       .col-lg-5.backtitulo
         h4.mt-2 Etiqueta y protocolo en el servicio de interpretación
     p.mt-5 Cuando se habla de etiqueta y protocolo es necesario mencionar el Código Deontológico, “es decir, un conjunto de pautas o deberes que los profesionales tienen que seguir en el desarrollo de su actividad” Méndez, (2010). De acuerdo con lo anterior, se tendrán en cuenta diversos tipos de características como: las personales, intelectuales, éticas, entre otras. También debe considerarse el atuendo adecuado, la apariencia, la ubicación espacial, la preparación de los temas a interpretar, etc.
