@@ -262,7 +262,7 @@
       .py-3.py-md-4(titulo="Enfoque de derechos")
         .row.justify-content-center.bga.mt-4.mb-4
           .col-md-2.mb-2.mb-md-0
-            img(src='@/assets/curso/tema1/ico10.svg', alt='Texto que describa la imagen')
+            img.imgwia(src='@/assets/curso/tema1/ico10.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mt-4
             h5 Enfoque de derechos
@@ -271,7 +271,7 @@
       .py-3.py-md-4(titulo="Enfoque diferencial. ")
         .row.justify-content-center.bga.mt-4.mb-4
           .col-md-1.mb-2.mb-md-0.mar
-            img(src='@/assets/curso/tema1/ico11.svg', alt='Texto que describa la imagen')
+            img.imgwia(src='@/assets/curso/tema1/ico11.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mt-4
             h5 Enfoque diferencial. 
@@ -299,7 +299,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="zoom-in-right")
       h2 1.5. Técnicas de búsqueda de información
     .row(data-aos="fade-up")
-      .col-md-6
+      .col-md-6.mb-4
         img(src='@/assets/curso/tema1/10.png', alt='Texto que describa la imagen')
 
       .col-md-6
@@ -309,7 +309,7 @@
         h4.mt-4 Fuente de Información secundaria
         p La información secundaria son los datos recogidos y ya elaborados que existen previamente (información primaria) y son del interés del investigador por lo que han sido producidos con diversos propósitos. Se utilizan 2 técnicas para su recolección: cuantitativas (estadísticas, censos, cálculos matemáticos) y cualitativas (actas, registros, informes, documentos, entre otros).
     .row
-      .col-lg-4.backtitulo
+      .col-lg-4.backtitulo.mt-4
         h4.mt-2.text-center Tipos de búsqueda de información
     .row.justify-content-center.mt-5
       .col-lg-12
@@ -334,7 +334,7 @@
         h4.mt-2.text-center Técnicas de recolección de información
     p.mt-4 Para realizar la búsqueda, independientemente de las estrategias que se utilicen se sugieren los siguientes pasos: 
     .row(data-aos="fade-up")
-      .col-md-5
+      .col-md-5.mb-4
         img(src='@/assets/curso/tema1/11.png', alt='Texto que describa la imagen')
       .col-md-7.mt-2
         .row
