@@ -550,7 +550,7 @@
 
           .col-md-6.backq2
             .row.justify-content-center.mt-4.marginbot
-              .col-md-2.mb-5
+              .col-md-2.mb-5.tta
                 img(src='@/assets/curso/tema1/ico24.svg', alt='Texto que describa la imagen')
               .col-md-1
               .col-md-8.mb-5
