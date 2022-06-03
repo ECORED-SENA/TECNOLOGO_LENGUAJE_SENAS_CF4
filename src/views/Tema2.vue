@@ -76,10 +76,10 @@
           .col-sm-6.col-lg-3.mb-4.mb-lg-0.wii1
             .tarjeta--boton.p-4.tback
               .row.justify-content-center.mb-3
-                .col-4.mt-2
+                .col-4.mt-4
                   figure
                     img(src='@/assets/curso/tema2/ico5.svg', alt='Texto que describa la imagen')
-              h4.text-center.mb-3 Minorías religiosas
+              h4.text-center.mb-3.mt-3 Minorías religiosas
           .col-sm-6.col-lg-5.mb-4.mb-lg-0
             .tarjeta--boton.p-4.tback
               .row.justify-content-center.mb-3
@@ -93,7 +93,7 @@
                 .col-4.mt-4
                   figure
                     img(src='@/assets/curso/tema2/ico7.svg', alt='Texto que describa la imagen')
-              h4.text-center.mb-1 Pueblos indígenas y tribus
+              h4.text-center.mb-0 Pueblos indígenas y tribus
     .row.justify-content-center(data-aos="fade-up")
       .col-md-10
         .row.bgta.p-4
