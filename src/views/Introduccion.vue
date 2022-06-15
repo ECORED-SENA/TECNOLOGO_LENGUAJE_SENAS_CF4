@@ -21,7 +21,7 @@
               figure
                 img(src='@/assets/curso/ico1.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Fundamentación teórica y normativa sobre comunidad y cultura y sus enfoques.
+          h4.text-center Fundamentación teórica y normativa sobre comunidad y cultura y sus enfoques
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.p-4
@@ -30,7 +30,7 @@
               figure
                 img(src='@/assets/curso/ico2.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Desarrollo de habilidades técnicas de búsquedas virtuales.
+          h4.text-center Desarrollo de habilidades técnicas de búsquedas virtuales
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.p-4
@@ -39,7 +39,7 @@
               figure
                 img(src='@/assets/curso/ico3.svg', alt='Texto que describa la imagen')
 
-          h4.text-center Definición de los requerimientos del intérprete de apoyo, turnos y relevos.
+          h4.text-center Definición de los requerimientos del intérprete de apoyo, turnos y relevos
 
       .col-sm-6.col-lg-3.mb-4.mb-lg-0
         .tarjeta--boton.p-4
@@ -48,7 +48,7 @@
               figure
                 img(src='@/assets/curso/ico4.svg', alt='Texto que describa la imagen')
 
-          h4.text-center.mb-4 Gestión de los protocolos de etiqueta.
+          h4.text-center.mb-4 Gestión de los protocolos de etiqueta
 
 
     p.mt-5 Al finalizar, el aprendiz estará en capacidad de reconocer lo referente a la etiqueta y protocolo del servicio; aplicar los conceptos generales sobre la comunidad, cultura y normatividad que regula la prestación del servicio. Tendrá las herramientas para utilizar las técnicas de búsqueda virtuales para el manejo de la información según los contenidos desarrollados y sabrá utilizar las modalidades de interpretación, etiqueta y protocolo de los usuarios en los distintos escenarios físicos. 

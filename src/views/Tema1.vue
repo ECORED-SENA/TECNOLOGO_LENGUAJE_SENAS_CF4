@@ -9,7 +9,7 @@
     img.mb-5(src="@/assets/curso/tema1/1.png", alt="Texto que describa la imagen")(data-aos="fade-up")
     separador
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-right")
-      h2 1.1 Antecedentes relacionados con la población sorda.
+      h2 1.1 Antecedentes relacionados con la población sorda
     p La historia de los intérpretes de lengua de señas en Colombia puede ser tan antigua como la existencia de los sordos en el continente americano. Al tratarse de una comunidad, en su mayoría ágrafa, no hay documentos escritos que cuenten o respalden sobre sus inicios en este país. Los pocos registros que hay están ligados a la educación de los sordos, por lo que los intérpretes empezaron a jugar desde entonces un papel importante. 
     .row.mt-4(data-aos="fade-up")
       .col-md-6
@@ -55,13 +55,13 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Disfrutar de un mundo más equitativo y respetuoso frente a las diferencias.
+                | Disfrutar de un mundo más equitativo y respetuoso frente a las diferencias
               li 
                 i.fas.fa-check
-                | Beneficiar a todas las personas sin perjuicio de sus características, es decir, sin etiquetar ni excluir.
+                | Beneficiar a todas las personas sin perjuicio de sus características, es decir, sin etiquetar ni excluir
               li 
                 i.fas.fa-check
-                | Proporcionar un acceso equitativo, revisando procesos constantemente y valorando el aporte de cada persona a la sociedad.
+                | Proporcionar un acceso equitativo, revisando procesos constantemente y valorando el aporte de cada persona a la sociedad
     
     separador
     .row
@@ -81,7 +81,7 @@
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema1/ico2.svg' alt='AvatarTop')
-          h5.text-center.mt-4.mb-0  Sensorial auditiva.
+          h5.text-center.mt-4.mb-0  Sensorial auditiva
 
         .tarjeta.backtar.p-4
           .row.justify-content-center.mb-3
@@ -93,14 +93,23 @@
           .row.justify-content-center.mb-3
             .col-7
               img(src='@/assets/curso/tema1/ico4.svg' alt='AvatarTop')
-          h5.text-center.mt-4.mb-0 Sensorial gusto, olfato, tacto.
+          h5.text-center.mt-4.mb-0 Sensorial gusto, olfato, tacto
 
         .tarjeta.backtar.p-4
           .row.justify-content-center.mb-3
             .col-8
               img(src='@/assets/curso/tema1/ico5.svg' alt='AvatarTop')
           h5.text-center.mt-4.mb-0  Sistémica
-
+        .tarjeta.backtar.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema1/ico8.svg' alt='AvatarTop')
+          h5.text-center.mt-4.mb-0  Mental cognitiva
+        .tarjeta.backtar.p-4
+          .row.justify-content-center.mb-3
+            .col-8
+              img(src='@/assets/curso/tema1/ico9.svg' alt='AvatarTop')
+          h5.text-center.mt-4.mb-0  Mental psicosocial          
         .tarjeta.backtar.p-4
           .row.justify-content-center.mb-3
             .col-8
@@ -113,16 +122,8 @@
               img(src='@/assets/curso/tema1/ico7.svg' alt='AvatarTop')
           h5.text-center.mt-4.mb-0  Piel, pelo y uñas
 
-        .tarjeta.backtar.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema1/ico8.svg' alt='AvatarTop')
-          h5.text-center.mt-4.mb-0  Mental cognitiva.
-        .tarjeta.backtar.p-4
-          .row.justify-content-center.mb-3
-            .col-8
-              img(src='@/assets/curso/tema1/ico9.svg' alt='AvatarTop')
-          h5.text-center.mt-4.mb-0  Mental psicosocial
+
+
     p.mt-4 Es fundamental atender al lenguaje que se usa en relación con las personas en situación de discapacidad para no ofender o faltar a la dignidad de estos grupos. A continuación, se exponen las formas actuales y correctas de referirse a las personas con discapacidad de acuerdo con su diagnóstico:
     .row.justify-content-center.mt-5(data-aos="fade-up")
       .col-md-10.mt-4
@@ -135,51 +136,51 @@
 
             tbody
               tr
-                td Discapacitado, minusválido, tullido, lisiado, pobrecito.
-                td Persona con discapacidad.
+                td Discapacitado, minusválido, tullido, lisiado, pobrecito
+                td Persona con discapacidad
               tr
-                td Defecto de nacimiento.
-                td Discapacidad congénita.
+                td Defecto de nacimiento
+                td Discapacidad congénita
 
               tr
                 td Deforme
-                td Persona con discapacidad congénita.
+                td Persona con discapacidad congénita
               tr
-                td El ciego, el cieguito.
-                td Ciego, invidente, persona con discapacidad visual.
+                td El ciego, el cieguito
+                td Ciego, invidente, persona con discapacidad visual
               tr
                 td Semividente
-                td Persona con baja visión.
+                td Persona con baja visión
               tr
-                td El mudo, el sordomudo.
-                td Persona sorda o con discapacidad auditiva.
+                td El mudo, el sordomudo
+                td Persona sorda o con discapacidad auditiva
               tr
                 td Paralítico
-                td Persona con discapacidad física, paraplejia o cuadriplejia.
+                td Persona con discapacidad física, paraplejia o cuadriplejia
               tr
-                td Confinado a una silla de ruedas.
-                td Persona usuaria de silla de ruedas.
+                td Confinado a una silla de ruedas
+                td Persona usuaria de silla de ruedas
               tr
-                td Mutilado, mocho, manco.
-                td Persona con amputación.
+                td Mutilado, mocho, manco
+                td Persona con amputación
               tr
-                td Cojo, mocho.
-                td Persona con movilidad reducida.
+                td Cojo, mocho
+                td Persona con movilidad reducida
               tr
                 td Mudo
-                td Persona no verbal.
+                td Persona no verbal
               tr
-                td Retardado mental, bobo, tonto, mongólico.
-                td Persona con discapacidad intelectual o cognitiva.
+                td Retardado mental, bobo, tonto, mongólico
+                td Persona con discapacidad intelectual o cognitiva
               tr
-                td Esquizofrénico, psiquiátrico, loco.
-                td Persona con esquizofrenia.
+                td Esquizofrénico, psiquiátrico, loco
+                td Persona con esquizofrenia
               tr
-                td Demente, enfermo mental, psiquiátrico, loco, lunático, desquiciado.
-                td Persona con discapacidad psicosocial.
+                td Demente, enfermo mental, psiquiátrico, loco, lunático, desquiciado
+                td Persona con discapacidad psicosocial
               tr
                 td Epiléptico
-                td Persona con epilepsia.
+                td Persona con epilepsia
               tr
                 td Víctima de…
                 td Persona que experimentó, en situación de o que tiene…
@@ -192,7 +193,7 @@
     p El concepto diacrónico de discapacidad ha trascendido en diferentes modelos o normas con visiones y marcos de actuación que han influido en la manera de ver, apoyar y guiar las prácticas que la sociedad ha adoptado sobre la población con discapacidad. A continuación, se describen los principales modelos: 
     TabsA.color-acento-botones.mb-5.mt-5(data-aos="fade-up")
 
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo de la prescindencia:")
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo de la prescindencia")
         h4.mt-4 Modelo de la prescindencia:
         .row.justify-content-center.mt-2
 
@@ -203,8 +204,8 @@
 
 
 
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo tradicional: ")
-        h4.mt-4 Modelo tradicional: 
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo universal ")
+        h4.mt-4 Modelo universal:
         .row.justify-content-center.mt-2
 
           .col-md-5
@@ -212,8 +213,8 @@
           .col-md-5
             p La creencia general de que la discapacidad es un castigo divino, la voluntad de Dios o una prueba de este. Incluso se cree que es un castigo por un pecado cometido, por lo que las familias los esconden por vergüenza. Algunas de estas creencias están unidas a algún tipo de práctica religiosa o ritual.
 
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo médico, biológico o patológico:  ")
-        h4.mt-4 Modelo médico, biológico o patológico: 
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo médico, biológico o patológico  ")
+        h4.mt-4 Modelo médico, biológico o patológico:
         .row.justify-content-center.mt-2
 
           .col-md-5
@@ -221,7 +222,7 @@
           .col-md-5
             p Este considera que la persona con discapacidad tiene un problema individual centrado en una alteración corporal que requiere cuidados médicos y que la lleva a asumir un papel de paciente. En este caso, el tratamiento es dirigido por el profesional de la salud y hace hincapié en la eliminación, normalización o en una supuesta cura de la discapacidad. El paradigma biológico centra el problema en la persona que tiene deficiencias o limitaciones.
 
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo social: ")
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo social ")
         h4.mt-4 Modelo social:
         .row.justify-content-center.mt-2
 
@@ -229,15 +230,15 @@
             img(src='@/assets/curso/tema1/7.png' alt='AvatarTop')
           .col-md-5
             p Centra el problema de la discapacidad en la sociedad y no en el individuo. La discapacidad no se entiende en este modelo como un atributo de la persona, sino como un complejo conjunto de condiciones creadas por el entorno. Busca garantizar la participación de las personas con discapacidad en la vida social.
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo político activista:  ")
-        h4.mt-4 Modelo político activista: 
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo político activista  ")
+        h4.mt-4 Modelo político activista:
         .row.justify-content-center.mt-2
 
           .col-md-5
             img(src='@/assets/curso/tema1/8.png' alt='AvatarTop')
           .col-md-5
             p Tiene como eje el reconocimiento de los derechos de las personas con discapacidad, promoviendo acciones basadas en lo político y en lo social que han iniciado diferentes organizaciones de grupos que apoyan sus derechos. 
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo biopsicosocial:  ")
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo biopsicosocial  ")
         h4.mt-4 Modelo biopsicosocial:
         .row.justify-content-center.mt-2
 
@@ -246,8 +247,8 @@
           .col-md-5
             p Plantea la discapacidad como un hecho universal, en la medida en que toda la población está en situación de riesgo de adquirirla, por lo tanto, las iniciativas públicas deben dirigirse a toda la población. La discapacidad no se entiende aquí como un atributo que diferencia a la persona con discapacidad del resto de la población, sino que es una característica inherente a la condición humana.
                         
-      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo tradicional: ")
-        h4.mt-4 Modelo tradicional: 
+      .tarjeta.color-acento-botones--borde.p-5(titulo="Modelo tradicional ")
+        h4.mt-4 Modelo tradicional:
         .row.justify-content-center.mt-2
 
           .col-md-5
@@ -274,7 +275,7 @@
             img.imgwia(src='@/assets/curso/tema1/ico11.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mt-4
-            h5 Enfoque diferencial. 
+            h5 Enfoque diferencial
             p Involucra las condiciones y posiciones de los distintos actores sociales, desde una mirada de género, etnia e identidad cultural, discapacidad o ciclo vital.
       
       .py-3.py-md-4(titulo="Enfoque territorial. ")
@@ -283,7 +284,7 @@
             img(src='@/assets/curso/tema1/ico12.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mt-4
-            h5 Enfoque territorial. 
+            h5 Enfoque territorial
             p Pasa de la formulación de acciones que privilegian una visión fraccionada, a un ejercicio que se centra en el lugar que habita el individuo y privilegia la multidimensionalidad (económica, social, política, ambiental y cultural) del espacio.
       
       .py-3.py-md-4(titulo="Enfoque de desarrollo humano.  ")
@@ -292,7 +293,7 @@
             img(src='@/assets/curso/tema1/ico13.svg', alt='Texto que describa la imagen')
 
           .col-md-8.mt-4
-            h5 Enfoque de desarrollo humano.  
+            h5 Enfoque de desarrollo humano  
             p Sitúa a las personas en el centro del proceso, como beneficiarias del desarrollo y agentes del progreso y la transformación. 
             p Es importante recordar que frente a las personas con discapacidad no se puede suponer ni generalizar. Es primordial preguntar directamente a la persona con discapacidad acerca de sus necesidades frente al servicio o tarea que se dispone a realizar y sobre los apoyos o facilitadores que requiere para su acceso al mismo. Preguntar si requieren apoyo, se respeta su voluntad y autonomía, y favorece su independencia.
     separador
@@ -362,6 +363,7 @@
     .row.mt-5
       .col-lg-4.backtitulo
         h4.mt-2.text-center Búsqueda de información en Internet
+    p.mt-4 Existen distintos tipos de buscadores que nos permiten localizar páginas y documentos correctos:
     .row.mb-5.mt-5(data-aos="fade-up")
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -392,7 +394,7 @@
     .row  
       .col-lg-4.backtitulo
         h4.mt-2.text-center Herramientas virtuales
-    p.mt-4 Las herramientas virtuales como las plataformas de e-learning, campus virtual, Learning Management System (LMS), aplicaciones, entre otros, son espacios virtuales de aprendizaje orientados a facilitar la experiencia de capacitación a distancia.
+    p.mt-4 Las herramientas virtuales como las plataformas de e-learning, campus virtual, <i>Learning Management System (LMS)</i>, aplicaciones, entre otros, son espacios virtuales de aprendizaje orientados a facilitar la experiencia de capacitación a distancia.
     .row.justify-content-center(data-aos="fade-up")
       .col-md-4.mt-4
         img(src='@/assets/curso/tema1/12.png' alt='AvatarTop')
@@ -402,20 +404,20 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Tamaño del recurso.
+                | Capacitación flexible y económica.
               li 
                 i.fas.fa-check
-                | Opciones de velocidad.
+                | Se combina el poder de internet con el de las herramientas tecnológicas.
 
               li 
                 i.fas.fa-check
-                | Tipos de conexión para preferencias de usuario.
+                | Se anulan las distancias geográficas y temporales.
               li 
                 i.fas.fa-check
-                | Formatos (Windows Media, Real, Quicktime, Synchronized Multimedia
+                | Pueden utilizarse con mínimos conocimientos.
               li 
                 i.fas.fa-check
-                | Integration Languaje (SMIL)).
+                | Ofrecen libertad en cuanto a tiempo y ritmo de aprendizaje.
     p.mt-5 Existen también otras herramientas útiles para la producción de contenidos educativos desde su diseño, traducción (en LSC), producción y divulgación, además de volverlo accesible. Para lograr este último pero imprescindible paso, es necesario conocer los criterios para la creación de herramientas virtuales accesibles. 
     p Las preferencias de usuario, acceso e interacción de contenidos deben ser fáciles de manejar y flexibles en:
     .row.mb-5(data-aos="fade-up")
@@ -453,7 +455,7 @@
               figure
                 img(src='@/assets/curso/tema1/ico20.svg', alt='Texto que describa la imagen')
 
-          h4.text-center.mt-4.mb-2 Formatos (Windows Media, Real, Quicktime, Synchronized Multimedia Integration Languaje (SMIL))
+          h4.text-center.mt-4.mb-2 Formatos (Windows Media, Real, <i>Quicktime, Synchronized Multimedia Integration Languaje (SMIL)</i>)
     .row
       .col-md-6.backq.p-2.ma
         h5.maaa Videos Accesibles:
@@ -621,13 +623,13 @@
             img(src='@/assets/curso/tema1/ico26.svg' alt='AvatarTop')
 
           .col-md-11.p-4
-            p <strong>SAMI:</strong>  Synchronized Accesible Media Interchange es una especificación de Microsoft que incorpora los subtítulos al dispositivo Windows Media Player. 
+            p <strong>SAMI:</strong>  <i>Synchronized Accesible Media Interchange</i> es una especificación de Microsoft que incorpora los subtítulos al dispositivo Windows Media Player. 
         .row.mt-3.bg3(data-aos="fade-up")
           .col-md-1.mt-3
             img(src='@/assets/curso/tema1/ico27.svg' alt='AvatarTop')
 
           .col-md-11.p-4
-            p <strong>Dragon naturally speaking:</strong>   aplicación de reconocimiento de voz para generar subtítulos sin tener que exportar texto de un editor. 
+            p <strong><i>Dragon naturally speaking:</i></strong>   aplicación de reconocimiento de voz para generar subtítulos sin tener que exportar texto de un editor. 
         .row.mt-3.bg4(data-aos="fade-up")
           .col-md-1.mt-3
             img(src='@/assets/curso/tema1/ico28.svg' alt='AvatarTop')

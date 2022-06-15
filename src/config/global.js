@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Lineamientos normativos de interpretación, traducción y discapacidad.',
+      'Lineamientos normativos de interpretación, traducción y discapacidad',
     descripcionCurso:
       'Los procesos de inclusión, participación social y educativa de diferentes grupos poblacionales, han permitido el acceso a nuevas posibilidades, generando con ello un mejoramiento de la calidad de vida y un reconocimiento de sus potencialidades en diferentes contextos. Para el caso de la población Sorda, en Colombia desde la Constitución Política de 1991 se regularon las leyes que promueven sus derechos y garantías, además del apoyo en la investigación, enseñanza y difusión de la Lengua de Señas Colombiana LSC. ',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),

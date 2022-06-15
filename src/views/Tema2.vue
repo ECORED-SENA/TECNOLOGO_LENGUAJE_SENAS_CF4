@@ -8,7 +8,7 @@
       h1 Fundamentación conceptual de comunidad y cultural 
     img.mb-5(src="@/assets/curso/tema2/1.png", alt="Texto que describa la imagen")(data-aos="fade-up")
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-right")
-      h2 2.1. Grupos minoritarios:
+      h2 2.1. Grupos minoritarios
     p De acuerdo con ACNUR, Agencia de la ONU para los refugiados (2020), “una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población. Los pueblos indígenas poseían tierras antes de ser invadidas y colonizadas”. 
     .row.justify-content-center.mt-5(data-aos="fade-up")
       .col-lg-10
@@ -132,7 +132,7 @@
 
     separador
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-right")
-      h2 2.2. Comunidad y cultura de las personas sordas:
+      h2 2.2. Comunidad y cultura de las personas sordas
     .row.justify-content-center(data-aos="fade-up")
       .col-lg-10
         .row
@@ -172,18 +172,18 @@
                     | Cultura propia 
                   li 
                     i.fas.fa-check
-                    | Experiencia compartida: subordinación, vulnerabilidad. 
+                    | Experiencia compartida: subordinación, vulnerabilidad
 
                   li 
                     i.fas.fa-check
-                    | Voluntad de salvaguarda de la identidad (medidas estables diferencia específica).
+                    | Voluntad de salvaguarda de la identidad (medidas estables diferencia específica)
                   li 
                     i.fas.fa-check
-                    | Solidaridad entre los miembros del grupo.
+                    | Solidaridad entre los miembros del grupo
           .col-lg-5.mt-4
             img(src='@/assets/curso/tema2/4.png', alt='Texto que describa la imagen')
     p.mt-5 Es necesario analizar los anteriores aspectos para definir si la comunidad sorda hace parte de un grupo minoritario. Para los sordos que se identifican con la comunidad sorda, ser sordo no es una deficiencia, más bien, es parte de su completa identidad. Para los que se adhieren a la visión patológica médica y no reconocen los aspectos culturales y lingüísticos del sordo como comunidad, ser sordo es una discapacidad y un trastorno.
-    p Las personas sordas son una minoría, cuantitativamente, dentro de la sociedad. Pero cabe plantearse qué tipo de minoría son: social, cultural, lingüística o étnica. Los límites parecen no estar claros. La Comunidad sorda no es un colectivo homogéneo, sino que incluye a personas sordas y a personas sordas y oyentes que están relacionados. Dentro de la misma comunidad se hacen las siguientes distinciones: 
+    p Las personas sordas son una minoría, cuantitativamente, dentro de la sociedad. Pero cabe plantearse qué tipo de minoría son: social, cultural, lingüística o étnica. Los límites parecen no estar claros. La comunidad sorda no es un colectivo homogéneo, sino que incluye a personas sordas y a personas sordas y oyentes que están relacionados. Dentro de la misma comunidad se hacen las siguientes distinciones: 
     ImagenInfografica.color-secundario.mb-5.mt-5(data-aos="fade-up")
       template(v-slot:imagen)
         figure
@@ -248,7 +248,7 @@
                     p.text-white.mb-0 Autoafirmación cultural.
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="zoom-in-right")
-      h2 2.3.  Características de las personas sordas.
+      h2 2.3.  Características de las personas sordas
     p La persona sorda es la persona que tiene dificultades para oír. Puede ser que oiga un poquito o puede que no oiga ningún sonido. Las personas sordas tienen las mismas capacidades que los oyentes. “Algunos sordos se comunican con lengua de señas y otros con lengua oral que en Colombia es el castellano o español”. INSOR 2020
     p  Las personas sordas forman una minoría cultural y lingüística, con características particulares como las siguientes:
     .row.justify-content-center(data-aos="fade-up")
