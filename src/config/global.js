@@ -124,7 +124,7 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
       {
@@ -302,7 +302,7 @@ export default {
     {
       termino: 'Grupos minoritarios',
       significado:
-        '“Una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población. Los pueblos indígenas poseían tierras antes de ser invadidas y colonizadas”. ACNUR, Agencia de la ONU para los refugiados (2020)',
+        '“Una minoría es un grupo étnico, religioso o lingüístico, en menor número que el resto de la población. Los pueblos indígenas poseían tierras antes de ser invadidas y colonizadas”. ACNUR, Agencia de la ONU para los refugiados (2020).',
     },
     {
       termino: 'Inclusión',
@@ -328,14 +328,14 @@ export default {
   complementario: [
     {
       texto:
-        'Decreto 2369 de 1997. [Presidencia de la República de Colombia]. Por el cual se reglamenta parcialmente la Ley 324 de 1996. Septiembre 22 de 1997. D.O. 43137',
+        'Decreto 2369 de 1997. [Presidencia de la República de Colombia]. Por el cual se reglamenta parcialmente la Ley 324 de 1996. Septiembre 22 de 1997. D.O. 43137.',
       tipo: 'Artículo',
       descarga:
         '/downloads/Anexo 1 Art. 5 Decreto-2369-de-1997 Intérprete de lengua manual.pdf',
     },
     {
       texto:
-        'Ley 982 de 2005. Por la cual se establecen normas tendientes a la equiparación de oportunidades para las personas sordas y sordociegas y se dictan otras disposiciones. 2 de agosto de 2005. D.O. 45995',
+        'Ley 982 de 2005. Por la cual se establecen normas tendientes a la equiparación de oportunidades para las personas sordas y sordociegas y se dictan otras disposiciones. 2 de agosto de 2005. D.O. 45995.',
       tipo: 'Artículo',
       descarga:
         '/downloads/Anexo 2 LEY-982-DE-2005 Equiparación de oportunidades para las personas sordas (1).pdf',
